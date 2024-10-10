@@ -1,0 +1,21 @@
+{
+  "products": {
+    "data": [
+      {
+        "name": "Vinamilk 1",
+        "price": "500000",
+        "image": "img/products/product-1.jpeg"
+      },
+      {
+        "name": "Vinamilk 2",
+        "price": "500000",
+        "image": "img/products/product-2.jpeg"
+      },
+      {
+        "name": "Vinamilk 3",
+        "price": "500000",
+        "image": "img/products/product-3.jpeg"
+      }
+    ]
+  }
+}
